@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Student Learning & Exploring different Tech-Stacks<br>      I learn the things by doing the hands-on practice and by doing the <br>      projects<br>👯 I’m looking to collaborate and contribute to open-source projects<br>🌱 I’m currently learning JAVA , Data Structure & Algorithms.<br>        FULL-STACK WEB-DEVELOPMENT<br>
+🔭 I’m currently Student Learning & Exploring different Tech-Stacks<br>      I learn the things by doing the hands-on practice and by doing the <br>      projects<br>  I’m looking to collaborate and contribute to open-source projects<br>🌱 I’m currently learning JAVA , Data Structure & Algorithms.<br>        FULL-STACK WEB-DEVELOPMENT<br>
 
 
 ## 🌐 Socials:
@@ -18,4 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AnantInamdar77&icon=2&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
